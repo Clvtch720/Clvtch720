@@ -74,7 +74,7 @@ I enjoy turning complex ideas into practical, scalable solutions.
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=betterluck720&show_icons=true&hide_border=true&theme=transparent"
+    src="https://ghstats.dev/api/card?username=betterluck720&show_icons=true&hide_border=true&theme=transparent&v=2"
     alt="GitHub Statistics"
   />
 </p>
