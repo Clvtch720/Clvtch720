@@ -70,7 +70,7 @@ I enjoy turning complex ideas into practical, scalable solutions.
   />
 </p>
 
-## 📈 GitHub Statistics
+## 📈 GitHub Statistics in details
 
 <p align="center">
   <img
