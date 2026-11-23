@@ -9,7 +9,7 @@ Building scalable web applications, intelligent AI products, and automation syst
 </p>
 
 <p align="center">
-  <a href="https://github.com/UglyBeast906">
+  <a href="https://github.com/betterluck720">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=for-the-badge" />
