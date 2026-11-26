@@ -9,7 +9,7 @@ Building scalable web applications, intelligent AI products, and automation syst
 </p>
 
 <p align="center">
-  <a href="https://github.com/betterluck720">
+  <a href="https://github.com/Clvtch720">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=for-the-badge" />
@@ -74,7 +74,7 @@ I enjoy turning complex ideas into practical, scalable solutions.
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=betterluck720&show_icons=true&hide_border=true&theme=transparent&v=2"
+    src="https://ghstats.dev/api/card?username=Clvtch720&show_icons=true&hide_border=true&theme=transparent&v=2"
     alt="GitHub Statistics"
   />
 </p>
@@ -85,10 +85,10 @@ I enjoy turning complex ideas into practical, scalable solutions.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/betterluck720/betterluck720/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Clvtch720/Clvtch720/output/github-contribution-grid-snake-dark.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/betterluck720/betterluck720/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Clvtch720/Clvtch720/output/github-contribution-grid-snake.svg"
       alt="My GitHub Contribution Activity"
       width="100%"
     />
